@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box;
+}
+
+#list {
+    border: 5px black;
+    padding: 10px;
+    margin: 50px;
+}
